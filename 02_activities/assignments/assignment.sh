@@ -62,6 +62,7 @@ rm ./data/processed/user_logs/*ipaddr*
 
 find ./data/processed/ -print  > ./data/inventory.txt
 
+#
 ###########################################
 
 echo "Project setup is complete!"
